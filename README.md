@@ -1,2 +1,2 @@
 I'm at
-https://github.com/psst54
+https://notion.psst54.me/
