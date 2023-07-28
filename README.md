@@ -10,9 +10,14 @@
 
 <br/>
 
+📌 [지뢰찾기](https://github.com/psst54/minesweeper)
+- 간단한 지뢰찾기를 만들어 보았습니다
+
 📌 [10분 플래너](https://github.com/psst54/time_tracker_open)
 
-- 일정과 카테고리의 추가/수정/삭제가 가능한 일정 관리 페이지
+- 일정을 분 단위로 기록할 수 있는 기록 서비스
+- firebase를 이용한 데이터 저장
+- js의 Date 객체를 이용하여 년, 월, 일을 선택할 수 있는 날짜 선택기
 
 📌 [mdx 파일 기반 블로그](https://github.com/psst54/psst54_blog_open)
 
