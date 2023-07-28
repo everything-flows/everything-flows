@@ -10,11 +10,11 @@
 
 <br/>
 
-📌 [10분 플래너](github.com/psst54/time_tracker_open)
+📌 [10분 플래너](https://github.com/psst54/time_tracker_open)
 
 - 일정과 카테고리의 추가/수정/삭제가 가능한 일정 관리 페이지
 
-📌 [mdx 파일 기반 블로그](github.com/psst54/psst54_blog_open)
+📌 [mdx 파일 기반 블로그](https://github.com/psst54/psst54_blog_open)
 
 - Next.js를 이용해 페이지를 정적으로 생성하는 블로그
 
