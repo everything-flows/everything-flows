@@ -11,7 +11,7 @@ React.js를 편하게 사용합니다. 필요한 경우 TypeScript를 적용할 
 
 🌊 **CS 지식을 활용하여 문제를 해결하는 것을 좋아합니다.**
 
-자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다. <canvas/> 태그 내의 내용이 중복 렌더링되는 부분을 막기 위해 [semaphore 개념을 응용하여 문제를 해결한 경험](https://github.com/psst54/resume-builder)이 있습니다.
+자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다. canvas 태그 내의 내용이 중복 렌더링되는 부분을 막기 위해 [semaphore 개념을 응용하여 문제를 해결한 경험](https://github.com/psst54/resume-builder)이 있습니다.
 
 🌊 **목적을 이루기 위해 필요한 기술을 습득해 나가는 과정을 즐깁니다.**
 
@@ -49,10 +49,10 @@ React.js를 편하게 사용합니다. 필요한 경우 TypeScript를 적용할 
 ## 📚 TECH STACK
 자주 사용하는 언어
 <div>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <br/>
