@@ -24,16 +24,20 @@ React.js를 편하게 사용합니다. 필요한 경우 TypeScript를 적용할 
 
 프로젝트 이름을 클릭하면 해당 프로젝트의 레포지토리로 이동합니다.
 
+### 📌 [블로그 V2(작업중)](https://github.com/psst54/blog)
+- React 기반 프레임워크 Remix를 사용해서 새로 제작하는 블로그
+- Supabase를 이용해서 포스트를 저장함
+
 ### 📌 [이력서 에디터](https://github.com/psst54/resume-builder)
 - 한글이 깨지지 않고 [Awesome CV](https://github.com/posquit0/Awesome-CV) 양식을 사용하는 이력서 에디터
-- pdf로 이력서를 내보내기할 수 있음 / supabase를 이용하여 온라인상에 저장 가능
+- Pdf로 이력서를 내보내기할 수 있음 / supabase를 이용하여 온라인상에 저장 가능
 - 이력서를 미리 보여주면서 canvas를 여러 번 렌더링할 때 발생하는 문제 해결
 
 ### 📌 [10분 플래너](https://github.com/psst54/time_tracker_open)
 
 - 일정을 분 단위로 기록할 수 있는 기록 서비스
-- firebase를 이용한 데이터 저장
-- js의 Date 객체를 이용하여 년, 월, 일을 선택할 수 있는 날짜 선택기
+- Firebase를 이용한 데이터 저장
+- Js의 Date 객체를 이용하여 년, 월, 일을 선택할 수 있는 날짜 선택기
 
 ### 📌 [mdx 파일 기반 블로그](https://github.com/psst54/psst54_blog_open)
 
