@@ -20,7 +20,7 @@
 
 프로젝트 이름을 클릭하면 해당 프로젝트의 레포지토리로 이동합니다.
 
-### 📌 [블로그 V2(작업중)](https://github.com/psst54/blog)
+### 📌 [블로그](https://github.com/psst54/blog)
 - React 기반 프레임워크 Remix를 사용해서 새로 제작하는 블로그
 - Supabase를 이용해서 포스트를 저장함
 
@@ -34,15 +34,6 @@
 - 일정을 분 단위로 기록할 수 있는 기록 서비스
 - Firebase를 이용한 데이터 저장
 - Js의 Date 객체를 이용하여 년, 월, 일을 선택할 수 있는 날짜 선택기
-
-### 📌 [mdx 파일 기반 블로그](https://github.com/psst54/psst54_blog_open)
-
-- Next.js를 이용해 페이지를 정적으로 생성하는 블로그
-
-
-### 📌 [자기 소개 페이지](https://github.com/psst54/psst54_main_open)
-
-- 파일 탐색기 모티브의 페이지, 스택을 이용하여 폴더간 이동이 가능함
 
 <br/>
 
