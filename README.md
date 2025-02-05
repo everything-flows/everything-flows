@@ -43,45 +43,43 @@ FE 개발자 강다혜(psst54)입니다.
 
 # 📚 TECH STACK
 
-<div style="display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 0.5rem 1rem;">
-  <!-- Languages -->
-  <p style="font-weight: bold; margin: 0;">Languages</p>
-  <div style="display: flex; gap: 0.25rem;">
-    <img src="https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white" alt="Python" />
-  </div>
+### Languages
 
-  <!-- Libraries & Frameworks -->
-  <p style="font-weight: bold; margin: 0;">Libraries & Frameworks</p>
-  <div style="display: flex; gap: 0.25rem;">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=white" alt="React.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white" alt="Remix" />
-  </div>
+<div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white" alt="Python" />
+</div>
 
-  <!-- Deployment -->
-  <p style="font-weight: bold; margin: 0;">Deployment</p>
-  <div style="display: flex; gap: 0.25rem;">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
-  </div>
+### Libraries & Frameworks
 
-  <!-- Databases -->
-  <p style="font-weight: bold; margin: 0;">Databases</p>
-  <div style="display: flex; gap: 0.25rem;">
-    <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  </div>
+<div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white" alt="Remix" />
+</div>
 
-  <!-- Tools -->
-  <p style="font-weight: bold; margin: 0;">Tools</p>
-  <div style="display: flex; gap: 0.25rem;">
-    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  </div>
+### Deployment
+
+ <div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+### Databases
+
+<div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+### Tools
+
+<div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </div>
