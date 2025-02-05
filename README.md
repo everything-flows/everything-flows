@@ -1,22 +1,40 @@
-# 🌊 About
+<div align='center'>
 
-FE 개발자 강다혜(psst54)입니다.
+# 🌊 강다혜(psst54)
 
-### 🌊 **스타트업에서 인턴으로 근무하며 기획부터 개발까지 경험했습니다.**
+FRONTEND DEVELOPER
 
-유저 플로우를 함께 살펴보고, 데이터를 어떤 형식으로 저장할 것인지 설계했습니다.
+[blog →](https://psst54.me)
 
-### 🌊 **CS 지식을 활용하여 문제를 해결하는 것을 좋아합니다.**
+</div>
 
-자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다.
 
-### 🌊 **목적을 이루기 위해 필요한 기술을 습득해 나가는 과정을 즐깁니다.**
 
-모든 내용을 하드코딩하는 방식의 [자기 소개 페이지](https://github.com/psst54/psst54_main_open)를 발전시켜 [mdx 파일을 자동으로 읽어 오는 블로그](https://github.com/psst54/psst54_blog_open)를 구축했습니다. 최근에는 [서버에서 데이터를 받아오는 방식](https://github.com/psst54/blog)을 채택하고 있습니다.
+# ✨ Summary
+
+- **재사용 가능한 컴포넌트, Hook**으로 개발 속도를 높이는 데 집중합니다
+  - Text 컴포넌트로 일관성 지키기:  [포스트 링크 →](https://psst54.me/cse/cspg-design-system-text)
+  - 재사용 가능한 Tab 컴포넌트 만들기:  [포스트 링크 →](https://psst54.me/cse/awesome-resume-builder-remake-2)
+  - 커스텀 hook으로 debouncing 적용하기:  [GitHub →](https://github.com/psst54/resume-builder/blob/c11cd3ef15ee03b8973350e79256e5e3c211dcb8/src/hooks/useDebounce.ts)
+ 
+- 스타트업 인턴, 창업 동아리 활동을 통해 **빠르고 정확하게 MVP를 개발**한 경험이 있습니다
+  - 프로젝트 초기 세팅을 위한 포스트 작성:  [링크 →](https://psst54.me/cse/team-project-starter-pack)
+  - CoinScope [랜딩 페이지 및 Alpha 버전](https://coinscope.gg/) 제작
+
+- CS 지식을 활용하여 문제를 해결하는 것을 좋아합니다.
+  - 자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다.
 
 <br/>
 
-# 📑 PROJECTS
+# 💼 Work Experience
+
+- 카카오 (2024.01. - 2024.02.) FE 개발자 (인턴)
+- 호랑에듀 (2023.09. - 2023.11.) FE 개발자 (인턴)
+- 원펫 (2022.02. - 2022.08.) FE 개발자 (인턴)
+
+<br/>
+
+# 📑 Projects
 
 진행했던 프로젝트를 소개합니다.
 
@@ -41,7 +59,7 @@ FE 개발자 강다혜(psst54)입니다.
 
 <br/>
 
-# 📚 TECH STACK
+# 📚 Tech Stack
 
 ### Languages
 
