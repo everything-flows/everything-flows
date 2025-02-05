@@ -19,7 +19,7 @@ FRONTEND DEVELOPER
  
 - 스타트업 인턴, 창업 동아리 활동을 통해 **빠르고 정확하게 MVP를 개발**한 경험이 있습니다
   - 프로젝트 초기 세팅을 위한 포스트 작성:  [링크 →](https://psst54.me/cse/team-project-starter-pack)
-  - CoinScope [랜딩 페이지 및 Alpha 버전](https://coinscope.gg/) 제작
+  - CoinScope 랜딩 페이지 및 Alpha 버전 제작:  [링크 →](https://coinscope.gg/)
 
 - CS 지식을 활용하여 문제를 해결하는 것을 좋아합니다.
   - 자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다.
@@ -28,34 +28,25 @@ FRONTEND DEVELOPER
 
 # 💼 Work Experience
 
-- 카카오 (2024.01. - 2024.02.) FE 개발자 (인턴)
-- 호랑에듀 (2023.09. - 2023.11.) FE 개발자 (인턴)
-- 원펫 (2022.02. - 2022.08.) FE 개발자 (인턴)
+- 카카오 (2024.01. - 2024.02.)  |  FE 개발자 (인턴)
+- 호랑에듀 (2023.09. - 2023.11.)  |  FE 개발자 (인턴)
+- 원펫 (2022.02. - 2022.08.)  |  FE 개발자 (인턴)
 
 <br/>
 
 # 📑 Projects
 
-진행했던 프로젝트를 소개합니다.
+### 📌 [Photo Ground](https://github.com/photo-ground/FE)
 
-프로젝트 이름을 클릭하면 해당 프로젝트의 레포지토리로 이동합니다.
+- 아마추어 사진작가와 고객을 연결해주는 스냅 촬영 전문 통합 관리 서비스
 
 ### 📌 [블로그](https://github.com/psst54/blog)
 
-- React 기반 프레임워크 Remix를 사용해서 새로 제작하는 블로그
-- Supabase를 이용해서 포스트를 저장함
+- React 기반 프레임워크 Remix를 기반으로 한 블로그
 
 ### 📌 [이력서 에디터](https://github.com/psst54/resume-builder)
 
-- 한글이 깨지지 않고 [Awesome CV](https://github.com/posquit0/Awesome-CV) 양식을 사용하는 이력서 에디터
-- Pdf로 이력서를 내보내기할 수 있음 / supabase를 이용하여 온라인상에 저장 가능
-- 이력서를 미리 보여주면서 canvas를 여러 번 렌더링할 때 발생하는 문제 해결
-
-### 📌 [10분 플래너](https://github.com/psst54/time_tracker_open)
-
-- 일정을 분 단위로 기록할 수 있는 기록 서비스
-- Firebase를 이용한 데이터 저장
-- Js의 Date 객체를 이용하여 년, 월, 일을 선택할 수 있는 날짜 선택기
+- Pdf 내보내기 기능이 있는 이력서 에디터
 
 <br/>
 
