@@ -2,7 +2,7 @@
 
 # 🌊 강다혜(psst54)
 
-FRONTEND DEVELOPER
+보고 싶은 것도 보여주고 싶은 것도 많은 FE 개발자
 
 [blog →](https://psst54.me)
 
