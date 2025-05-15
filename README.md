@@ -4,7 +4,7 @@
 
 보고 싶은 것도 보여주고 싶은 것도 많은 FE 개발자
 
-[blog →](https://rhei.me)
+[resume →](https://rhei.me/resume) | [blog →](https://rhei.me/blog)
 
 </div>
 
