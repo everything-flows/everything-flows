@@ -37,9 +37,9 @@
 
 # 📑 Projects
 
-### 📌 [블로그](https://github.com/everything-flows/rhei-portfolio)
+### 📌 [포트폴리오 사이트](https://github.com/everything-flows/rhei-portfolio)
 
-- React 기반 프레임워크 Remix를 기반으로 한 블로그
+- Remix, Next.js 등 다양한 기술을 활용하여 구성된 모노레포 기반의 이력서/블로그 통합 포트폴리오
 
 ### 📌 [Photo Ground](https://github.com/photo-ground/FE)
 
