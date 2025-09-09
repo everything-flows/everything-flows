@@ -8,22 +8,6 @@
 
 </div>
 
-
-
-# ✨ Summary
-
-- **재사용 가능한 컴포넌트, Hook**으로 개발 속도를 높이는 데 집중합니다
-  - Text 컴포넌트로 일관성 지키기:  [포스트 링크 →](https://rhei.me/blog/cse/cspg-design-system-text)
-  - 재사용 가능한 Tab 컴포넌트 만들기:  [포스트 링크 →](https://rhei.me/blog/cse/awesome-resume-builder-remake-2)
-  - 커스텀 hook으로 debouncing 적용하기:  [GitHub →](https://github.com/psst54/resume-builder/blob/c11cd3ef15ee03b8973350e79256e5e3c211dcb8/src/hooks/useDebounce.ts)
- 
-- 스타트업 인턴, 창업 동아리 활동을 통해 **빠르고 정확하게 MVP를 개발**한 경험이 있습니다
-  - 프로젝트 초기 세팅을 위한 포스트 작성:  [링크 →](https://rhei.me/blog/cse/team-project-starter-pack)
-  - CoinScope 랜딩 페이지 및 Alpha 버전 제작:  [링크 →](https://coinscope.gg/)
-
-- CS 지식을 활용하여 문제를 해결하는 것을 좋아합니다.
-  - 자료구조, 알고리즘을 구현하는 것에 흥미를 가지고 알고리즘 대회 참여, 문제 출제 등의 활동을 하였습니다.
-
 <br/>
 
 # 💼 Work Experience
