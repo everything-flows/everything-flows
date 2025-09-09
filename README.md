@@ -1,6 +1,6 @@
 <div align='center'>
 
-# 🌊 강다혜(psst54)
+# 🌊 강다혜(everything-flows)
 
 보고 싶은 것도 보여주고 싶은 것도 많은 FE 개발자
 
@@ -28,7 +28,8 @@
 
 # 💼 Work Experience
 
-- 카카오 (2024.01. - 2024.02.)  |  FE 개발자 (인턴)
+- 비바리퍼블리카, 인터랙션팀 (2025.06. - 재직중)  |  FE 개발자 (단기계약직)
+- 카카오, FE플랫폼팀 (2024.01. - 2024.02.)  |  FE 개발자 (인턴)
 - 호랑에듀 (2023.09. - 2023.11.)  |  FE 개발자 (인턴)
 - 원펫 (2022.02. - 2022.08.)  |  FE 개발자 (인턴)
 
@@ -36,13 +37,13 @@
 
 # 📑 Projects
 
+### 📌 [블로그](https://github.com/everything-flows/rhei-portfolio)
+
+- React 기반 프레임워크 Remix를 기반으로 한 블로그
+
 ### 📌 [Photo Ground](https://github.com/photo-ground/FE)
 
 - 아마추어 사진작가와 고객을 연결해주는 스냅 촬영 전문 통합 관리 서비스
-
-### 📌 [블로그](https://github.com/psst54/blog)
-
-- React 기반 프레임워크 Remix를 기반으로 한 블로그
 
 ### 📌 [이력서 에디터](https://github.com/psst54/resume-builder)
 
